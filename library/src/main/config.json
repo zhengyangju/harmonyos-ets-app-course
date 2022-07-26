@@ -1,0 +1,23 @@
+{
+  "app": {
+    "bundleName": "com.taiyi.harmonyosetscourse",
+    "vendor": "example",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "package": "com.example.library",
+    "deviceType": [
+      "phone"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "library",
+      "moduleType": "har"
+    },
+    "uiSyntax": "ets"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "apiType": 'faMode',
+  "buildOption": {
+  },
+  "entryModules": [
+    "entry"
+  ],
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

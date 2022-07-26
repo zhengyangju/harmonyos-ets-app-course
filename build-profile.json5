@@ -22,6 +22,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "use_ets",
+      "srcPath": "./use_ets",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "library",
+      "srcPath": "./library"
     }
   ]
 }
